@@ -2,6 +2,9 @@
 
 - 😄 My name is: Akkarat Subsri
 - ⚡ Student id: 63367568
+- 🙈 Career interest: Gamer
+- 🐍 Ability to program in different languages: python
+- 👨‍💻 Special aptitude, interest in computer engineering: Computer Programing
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
